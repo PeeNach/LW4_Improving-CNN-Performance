@@ -1,0 +1,13 @@
+# Python generator/reference scripts
+*.py
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebooks (hosted on Google Colab — see README link)
+*.ipynb
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
